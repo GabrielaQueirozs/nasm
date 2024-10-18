@@ -1,8 +1,14 @@
 # Estudo de comandos NASM
+
+<p align="center">
+
+<img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png " width=200 heigh=200 >
+
+</p>
 ## primeiros comandos
 
 
-*Programa hello word
+* Programa hello word
  
   ```Assembly
 
